@@ -7,5 +7,5 @@ también ingresó a la composición tipográfica losectrónica, permaneciendo
  esencialmente inalterado. Se popularizó en la década de 1960 con la 
  publicación de las hojas Letraset que contenían pasajes de Lorem Ipsum 
  y, más recientemente, con los uso de software de autoedición como Aldus 
- PageMaker, que incluía versiones de Lorem Ipsum..
+ PageMaker, que incluía versiones de Lorem Ipsum..lll
             
